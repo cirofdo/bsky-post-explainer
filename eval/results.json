@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "topic": "AI coding agents",
+    "url": "https://bsky.app/profile/novaoscloud.bsky.social/post/3mkgswszqee2s",
+    "passed": true,
+    "score": 1.0,
+    "concepts_covered": 5,
+    "concepts_total": 5,
+    "reason": "All five concepts are mentioned or clearly implied in the explanation."
+  },
+  {
+    "id": 2,
+    "topic": "AI coding agents",
+    "url": "https://bsky.app/profile/carnage4life.bsky.social/post/3mkgrcpoxzk2i",
+    "passed": true,
+    "score": 1.0,
+    "concepts_covered": 3,
+    "concepts_total": 3,
+    "reason": "The explanation covers all expected concepts, distinguishing between two types of software engineers, highlighting their differing focuses, and discussing the impact of AI on their work."
+  },
+  {
+    "id": 3,
+    "topic": "large language models",
+    "url": "https://bsky.app/profile/castltrastondrs.bsky.social/post/3mketgd3gcs2w",
+    "passed": true,
+    "score": 1.0,
+    "concepts_covered": 5,
+    "concepts_total": 5,
+    "reason": "All expected concepts are mentioned or clearly implied in the explanation."
+  },
+  {
+    "id": 4,
+    "topic": "large language models",
+    "url": "https://bsky.app/profile/leanpub.bsky.social/post/3mkgopkrnwi2r",
+    "passed": true,
+    "score": 1.0,
+    "concepts_covered": 5,
+    "concepts_total": 5,
+    "reason": "The explanation covers all expected concepts: Large Language Models, Simple Arithmetic, Python Programming, Leanpub, and Self-Publishing."
+  },
+  {
+    "id": 5,
+    "topic": "bluesky social network",
+    "url": "https://bsky.app/profile/clofsnitville.bsky.social/post/3mkgcrrzgps2k",
+    "passed": true,
+    "score": 0.5,
+    "concepts_covered": 2,
+    "concepts_total": 4,
+    "reason": "The explanation discusses social media's role in politics and critiques Trump, which implies Bluesky's identity and the 'boring' criticism, but does not explicitly address the social network vs. entertainment platform distinction or algorithmic feeds."
+  },
+  {
+    "id": 6,
+    "topic": "bluesky social network",
+    "url": "https://bsky.app/profile/hyperplanes.bsky.social/post/3mkg7pamwhc2r",
+    "passed": true,
+    "score": 0.6,
+    "concepts_covered": 3,
+    "concepts_total": 5,
+    "reason": "The explanation mentions Bluesky, JD Vance, and implies political bias in media, but does not address the pit bull effect or neutral coverage."
+  },
+  {
+    "id": 7,
+    "topic": "open source software",
+    "url": "https://bsky.app/profile/hplemke.bsky.social/post/3mk772uyqj22s",
+    "passed": true,
+    "score": 0.67,
+    "concepts_covered": 2,
+    "concepts_total": 3,
+    "reason": "The explanation covers the shift in perception about open-source software and implies a decline in proprietary software quality, but does not explicitly mention the distinction between open-source and proprietary software."
+  },
+  {
+    "id": 8,
+    "topic": "open source software",
+    "url": "https://bsky.app/profile/maggiefero.hachyderm.io.ap.brid.gy/post/3mkgpplk72mb2",
+    "passed": true,
+    "score": 0.67,
+    "concepts_covered": 2,
+    "concepts_total": 3,
+    "reason": "The explanation covers 'Open Source' and implies a critique of 'Doom-tolling', but does not mention 'Software' directly."
+  },
+  {
+    "id": 9,
+    "topic": "machine learning research",
+    "url": "https://bsky.app/profile/ml-nn-eu.bsky.social/post/3mkfwfb62zk25",
+    "passed": true,
+    "score": 0.8,
+    "concepts_covered": 4,
+    "concepts_total": 5,
+    "reason": "The explanation covers model deployment, machine learning validation, research and experimentation, and implicitly mentions extensive model testing, but it does not clearly address transitioning trained models."
+  },
+  {
+    "id": 10,
+    "topic": "machine learning research",
+    "url": "https://bsky.app/profile/magnesit.bsky.social/post/3mkffohtk7226",
+    "passed": true,
+    "score": 1.0,
+    "concepts_covered": 5,
+    "concepts_total": 5,
+    "reason": "All expected concepts are mentioned or clearly implied in the explanation."
+  }
+]

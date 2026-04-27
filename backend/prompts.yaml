@@ -1,0 +1,11 @@
+extract_entities:
+  system: "You extract key entities and topics from social media posts. Return ONLY a JSON object with any keys, each containing an array of strings. An entity can have more than 1 word."
+  user: "Extract the key entities and topics from this post:\n\n{post_text}"
+
+generate_queries:
+  system: "You generate search queries to find relevant context for a social media post. Return a JSON object with a single key 'queries' containing an array of 3 search query strings. Each query must be meaninguful and simple, from 3 to 5 words"
+  user: "Generate 3 Bluesky search queries to find posts that provide context for this post:\n\n{post_text}"
+
+summarize:
+  system: "You explain Bluesky posts using context from related posts. Be very concise. Use from 3 to 5 bullet points, but more than 3 only if its important to add more information, each 2 sentences max."
+  user: "Post to explain:\n{post_text}\n\nRelated posts for context:\n{context_str}\n\nExplain the post in 3 bullet points (more than 3 only if its really necessary)."

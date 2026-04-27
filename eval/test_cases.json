@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "topic": "AI coding agents",
+    "url": "https://bsky.app/profile/novaoscloud.bsky.social/post/3mkgswszqee2s",
+    "post_text": "=== 🚀 Introducing NovaOS, the Ultimate\n\nhttps://novaos.cloud\n#Enterprise AI Platform! ===\n\nUnlock unparalleled efficiency w/ 14 specialized AI agents for coding, research & more. Enjoy quantum-encrypted comms, one-click Hetzner Cloud deployment, self-healing security &... #Enterprise...",
+    "expected_concepts": [
+      "Enterprise AI Platform",
+      "Artificial Intelligence Agents",
+      "Quantum-Encrypted Communication",
+      "Cloud Deployment",
+      "Self-Healing Security"
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "AI coding agents",
+    "url": "https://bsky.app/profile/carnage4life.bsky.social/post/3mkgrcpoxzk2i",
+    "post_text": "I believe software engineering attracts two broad classes of people.\n\n1. People who enjoy the process of creating software.\n\n2. People who focus on the impact of the finished product. \n\nThe rise of AI coding agents is a negative for the first group and an exciting change for the second.",
+    "expected_concepts": [
+      "Two distinct groups of software engineers",
+      "Focus on software creation vs. impact of finished product",
+      "Impact of AI coding agents on software development process"
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "large language models",
+    "url": "https://bsky.app/profile/castltrastondrs.bsky.social/post/3mketgd3gcs2w",
+    "post_text": "Researchers uncovered a sophisticated citation mill using large language models to rephrase legitimate research on preprint servers, aiming to inflate citation counts.\n@theScientist.com",
+    "expected_concepts": [
+      "Citation mill",
+      "LLMs used for rephrasing",
+      "Preprint servers",
+      "Academic fraud",
+      "Detection challenge"
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "large language models",
+    "url": "https://bsky.app/profile/leanpub.bsky.social/post/3mkgopkrnwi2r",
+    "post_text": "Inside Large Language Models for absolute beginners: Volume I: Simple Arithmetic and beginning Python based approach by Ritesh Modi is a new release on Leanpub!\n\nLink: leanpub.com/insidellmvol1\n\n#books #ebooks #newreleases #leanpublishing #selfpublishing #computer_programming #ai #python",
+    "expected_concepts": [
+      "Large Language Models",
+      "Simple Arithmetic",
+      "Python Programming",
+      "Leanpub",
+      "Self-Publishing"
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "bluesky social network",
+    "url": "https://bsky.app/profile/clofsnitville.bsky.social/post/3mkgcrrzgps2k",
+    "post_text": "One of the best things about Bluesky is that it *is* a social network. I hadn't quite thought about it in these terms.\n\nWhen people say it's boring, they are saying they want a personalised entertainment platform rather than a social network. Fine but that's not what this is or should be.",
+    "expected_concepts": [
+      "Social network vs. entertainment platform",
+      "Bluesky's identity",
+      "'Boring' criticism",
+      "Algorithmic feeds"
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "bluesky social network",
+    "url": "https://bsky.app/profile/hyperplanes.bsky.social/post/3mkg7pamwhc2r",
+    "post_text": "It does annoy me a bit how every news outlet now prefaces Bluesky as \"the left wing social network\" or whatever. It's very much a pit bull effect, bluesky gets a mention only if you're on the left, the fact that JD Vance has an account too doesn't count",
+    "expected_concepts": [
+      "Bluesky",
+      "political bias in media",
+      "pit bull effect",
+      "JD Vance",
+      "neutral coverage"
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "open source software",
+    "url": "https://bsky.app/profile/hplemke.bsky.social/post/3mk772uyqj22s",
+    "post_text": "it used to be that people didn't want to use open-source software because it was vastly inferior to proprietary software, but... have you seen proprietary software lately",
+    "expected_concepts": [
+      "Open-source vs. proprietary software",
+      "Decline of proprietary software quality",
+      "Shift in perception"
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "open source software",
+    "url": "https://bsky.app/profile/maggiefero.hachyderm.io.ap.brid.gy/post/3mkgpplk72mb2",
+    "post_text": "You can also always ignore unfocused doom-tolling: it's the end of open source! the end of the Internet! the end of software! nahhhhhhhh, probably not- @baconandcoconut at #nbpy",
+    "expected_concepts": [
+      "Open Source",
+      "Doom-tolling",
+      "Software"
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "machine learning research",
+    "url": "https://bsky.app/profile/ml-nn-eu.bsky.social/post/3mkfwfb62zk25",
+    "post_text": "Model deployment in machine learning marks the culmination of extensive research, experimentation, and validation phases. It involves transitioning a trained machine learning model from[..]\n\n#machine #learning #ai #model\n\nwww.ml-nn.eu/a1/53.html",
+    "expected_concepts": [
+      "Model deployment",
+      "Machine learning validation",
+      "Transitioning trained models",
+      "Research and experimentation",
+      "Extensive model testing"
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "machine learning research",
+    "url": "https://bsky.app/profile/magnesit.bsky.social/post/3mkffohtk7226",
+    "post_text": "That's great to hear! But please be aware that AI is not inherently evil. Generative AI is probably what you're talking about. don't forget the advancements humanity is able to make with machine learning. AlphaFold models for example are a great leap in medicine research.",
+    "expected_concepts": [
+      "Generative AI",
+      "Machine Learning",
+      "AlphaFold Models",
+      "Medical Research",
+      "Advancements in Technology"
+    ]
+  }
+]

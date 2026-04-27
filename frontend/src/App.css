@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input {
+  width: 400px;
+  margin-right: 8px;
+}
+
+pre {
+  white-space: pre-wrap;
+  margin-top: 16px;
+}

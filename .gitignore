@@ -1,0 +1,7 @@
+.claude
+.env
+.python-version
+.ruff_cache
+__pycache__
+*.pyc
+/context_explainer.egg-info
