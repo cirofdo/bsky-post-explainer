@@ -33,10 +33,7 @@ post_text_vector = post_text_vector.data[0].embedding
 all_texts = queries + entities
 result = embed(llm_client, all_texts)
 
-all_candidates = [
-    (text, item.embedding)
-    for text, item in zip(all_texts, result.data)
-]
+all_candidates = [(text, item.embedding) for text, item in zip(all_texts, result.data)]
 
 scored = []
 for candidate_text, candidate_vector in all_candidates:

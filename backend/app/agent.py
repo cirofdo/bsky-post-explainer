@@ -36,8 +36,7 @@ def explain(post_url: str) -> str:
     result = embed(llm_client, all_texts)
 
     all_candidates = [
-        (text, item.embedding)
-        for text, item in zip(all_texts, result.data)
+        (text, item.embedding) for text, item in zip(all_texts, result.data)
     ]
 
     scored = []
